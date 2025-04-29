@@ -1,4 +1,4 @@
-POS SYSTEM
+This was my first POS SYSTEM 2024 i tried to reuse old code. i changed and enhance it 
 ===
 ## MERN STACK Application<br/>
 ![Group 1](https://user-images.githubusercontent.com/40393613/178875220-72d94698-0fc2-4b1f-b8c2-51d10cb42ff1.png)
